@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Express.js-black?logo=express&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Node.js-black?logo=nodedotjs&logoColor=green" /><br>
 <img src="https://img.shields.io/badge/C%2B%2B-black?logo=c%2B%2B&logoColor=lightblue" />
-<img src="https://img.shields.io/badge/C%23-black?logo=c-sharp&logoColor=darkmagenta" />
+<img src="https://img.shields.io/badge/C%23-black?logo=c&logoColor=darkmagenta" />
 <br><br>
 <strong>IDEs & CodeEditors:</strong><br><br>
 <img src="https://img.shields.io/badge/WebStorm-black?logo=webstorm&logoColor=white">
